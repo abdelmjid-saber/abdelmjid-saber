@@ -4,7 +4,7 @@
 <a href="https://linkedin.com/in/kalavhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kalavhan" height="30" width="30" /></a>
 <a href="https://medium.com/@josue.brigido1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@josue.brigido1" height="30" width="30" /></a>
 </p>
-<h1 align="center">👋 Hi, I'm Josué</h1>
+<h1 align="center">👋 Hi, I'm Abdelmjid</h1>
 <h3 align="center">I'm a front end web developer currently looking for new oportunities</h3>
 
 
