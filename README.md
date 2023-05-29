@@ -9,7 +9,8 @@
 - HTML
 - CSS
 - MySQL
-- Ract
+- Node JS
+- React
 - Next.js
 - Sass
 - Tailwindcss
