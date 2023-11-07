@@ -1,6 +1,5 @@
 <h1 align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F74A46&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Abdelmjid+Saber;Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+)](https://git.io/typing-svg)
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&repeat=false&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Abdelmjid+Saber;Welcome+to+My+Profile!;Over+6+years+of+programming+experienc;Always+learning+new+things" alt="Typing SVG" /></a></h1>
 <h3 align="center">I'm a Full Stack Web Developer</h3>
 
 ## Skills
